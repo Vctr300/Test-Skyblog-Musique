@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Notre Skyblog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Bienvenue sur notre blog</h1>
+  <article>
+    <h2>Premier article</h2>
+    <p>Écrit le 10 novembre 2026</p>
+    <p>Du texte ici...</p>
+  </article>
+</body>
+</html>
